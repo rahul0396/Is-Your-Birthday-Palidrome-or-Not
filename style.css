@@ -1,0 +1,45 @@
+
+body{
+    background: url(./bck.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+  }
+  :root{
+      color: rgb(255, 251, 0);
+  }
+  label{
+      display: block;
+      text-align: center;
+      margin: auto;
+  }
+  h1{
+      text-align: center;
+  }
+  
+  #btn{
+      display: block;
+      margin:auto;
+      margin-top: 1rem;
+      border-radius: 0.5rem;
+      padding: 0.2rem 0.7rem;
+      font-size: large;
+      background-color:rgb(224, 222, 96) ;
+  }
+
+  #output{ 
+      font-size: larger;
+      font-weight: 400;
+      margin: auto;
+      margin-top: 1rem;
+      /* border-color:rgb(255, 251, 0);  */
+      /* border-width: 0.2rem; */
+      /* border-style: solid; */
+      max-width:fit-content;
+      height: 60px;
+      text-align: center;
+      /* border: none; */
+     
+    }
+      
+     
